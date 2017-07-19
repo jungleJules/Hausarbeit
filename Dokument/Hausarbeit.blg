@@ -1,0 +1,44 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Hausarbeit.aux
+The style file: alphadin.bst
+Database file #1: literaturverzeichnis.bib
+I was expecting a `,' or a `}'---line 35 of file literaturverzeichnis.bib
+ : 
+ : year = "2008"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 87 of file literaturverzeichnis.bib
+ : 
+ : @misc{LehrplanPlusKunst,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 92 of file literaturverzeichnis.bib
+ : 
+ : @misc{LehrplanPlusKunstFachprofil,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 97 of file literaturverzeichnis.bib
+ : 
+ : @misc{LehrplanPlusBildungsziele,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Illegal end of database file---line 100 of file literaturverzeichnis.bib
+ :   note = {Abgerufen am: 2017-07-11}
+ :                                    
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "lp16"
+Warning--I didn't find a database entry for "Slopinski"
+Warning--I didn't find a database entry for "LehrplanPlus"
+Warning--to sort, need author or key in klett14
+Warning--to sort, need author or key in ISB05
+Warning--to sort, need author or key in LehrplanPlusBildungsziele
+Warning--to sort, need author or key in jim16
+Warning--to sort, need author or key in LBD
+Warning--to sort, need author or key in lp17
+Warning--empty year in ISB05
+Warning--empty year in jim16
+Warning--empty year in klett14
+Warning--empty year in LBD
+Warning--empty year in LehrplanPlusBildungsziele
+Warning--empty year in lp17
+Warning--neither address nor publication date in IndividuelleLernwege
+(There were 5 error messages)
